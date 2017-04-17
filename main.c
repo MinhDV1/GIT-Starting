@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <hello.c>
 int main()
 {
-	printf("Chao DaiCa \n");
+	hello();
 	return 0;
 }
